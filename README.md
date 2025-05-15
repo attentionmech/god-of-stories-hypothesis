@@ -22,7 +22,7 @@ A higher dimension is worth many many lower dimensions, so here are few images f
 
 1. Between the input of context and next token lies a universe of possibilities
 
-![67224b19-31e5-43d7-855b-45753c112d60](https://github.com/user-attachments/assets/ee7af380-3d7f-4f0f-b951-84d6f85eabfe)
+<img width="488" alt="Screenshot 2025-05-16 at 4 43 14 AM" src="https://github.com/user-attachments/assets/ee7af380-3d7f-4f0f-b951-84d6f85eabfe" />
 
 2. Language spread out in latent space as fractal
 
