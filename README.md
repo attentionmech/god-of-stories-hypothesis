@@ -8,11 +8,7 @@ First and foremost, do read the title properly. It's a hypothesis.
 
 Secondly, take a deep breath and read the description below the title again.
 
-
-Good. So.. lets begin..
-
-
-This blog series explores a central idea: that large language models (LLMs) leverage fractal-like structures within narratives to construct internal world models.
+This post series will explore a central idea: that large language models (LLMs) leverage fractal-like structures within narratives to construct internal world models.
 
 The hypothesis we will explore is that: LLMs don’t just process sequences of text; they model branching possibilities that resemble a structured multiverse of fractal shaped narratives in higher dimensions, which is akin to a simulated world.
 
@@ -33,6 +29,7 @@ A higher dimension is worth many many lower dimensions, so here are few images f
 
 No more.. This was a short introduction, because I can't write all of this in one go and there are shit ton of papers we will have to refer and relate..so stay tuned.
 
+NOTE: Section links will be added here in this readme itself
 
 
 ```
