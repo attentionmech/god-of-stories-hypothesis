@@ -32,3 +32,13 @@ A higher dimension is worth many many lower dimensions, so here are few images f
 
 
 No more.. This was a short introduction, because I can't write all of this in one go and there are shit ton of papers we will have to refer and relate..so stay tuned.
+
+
+
+```
+@article{attentionmech2025godofstories,
+  title={god of stories hypothesis},
+  author={attentionmech},
+  year={2025}
+}
+```
